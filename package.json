@@ -1,12 +1,12 @@
 {
-    "name": "vscode-angular2-files",
+    "name": "angular-files-mahdi",
     "displayName": "Angular Files",
     "description": "Quickly scaffold angular file templates",
     "version": "1.6.4",
     "icon": "images/icon.png",
-    "publisher": "alexiv",
+    "publisher": "mahdihajian",
     "author": {
-        "name": "Alexander Ivanichev"
+        "name": "mahdi hajian"
     },
     "engines": {
         "vscode": "^1.22.0"
